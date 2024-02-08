@@ -1,5 +1,5 @@
-Rede Neural Artificial: 
-Zero-rating
-Jurimetria
-Processo de negócio
-Neutralidade da Rede
+Rede Neural Artificial: É um método de inteligencia artificial para que computadores sejam capazes de processar dados de forma semelhante ao cérebro humano. É criado um sistema adaptativo que permite o aprendizado com os erros e um aprimoramento constante. Fontes: https://aws.amazon.com/pt/what-is/neural-network/; https://www.ibm.com/topics/neural-networks
+Zero-rating consiste em fornecer acesso à internet ou a aplicativos específicos sem custo financeiro, porém comumente associado às condições pré determinadas em alguma estratégia de venda. Fontes: https://www.berec.europa.eu/en/what-is-zero-rating; https://politics.org.br/edicoes/zero-rating-uma-introdu%C3%A7%C3%A3o-ao-debate
+Jurimetria é o uso de técnicas de anáise quantitativa e modelos estatísticos aos campos do Direito. Fontes: https://turivius.com/portal/jurimetria-o-que-e-e-como-usa-la/; https://www.projuris.com.br/blog/jurimetria/#:~:text=Segundo%20a%20ABJ%20(Associa%C3%A7%C3%A3o%20Brasileira,fazer%20parte%20do%20mundo%20jur%C3%ADdico.
+Processo de negócio são as tarefas e atividades que tem o objetivo de criar um resultado de valor para o cliente. Fontes: https://www.sydle.com/br/blog/processos-de-negocio-60e468a3b25037579719b0dd; https://www.euax.com.br/2018/08/processo-de-negocio/#:~:text=Processo%20de%20Neg%C3%B3cio%20%C3%A9%20o,e%20QUEM%20%C3%A9%20o%20respons%C3%A1vel.
+Neutralidade da Rede é o princípio que assegura a igualdade de tratamento de todos os dados que trafegam na internet, sem que determinado tipo de site, serviço ou usuário seja favorecido. Fontes: https://agenciabrasil.ebc.com.br/geral/noticia/2017-12/entenda-o-que-e-neutralidade-de-rede-e-como-e-o-seu-funcionamento-no-brasil; https://principios.cgi.br/neutralidade-da-rede
