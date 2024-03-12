@@ -24,5 +24,4 @@ int main() {
 }
 C
 
-Acerca de compilação e interpretação:
-Python é interpretada e executada linha por linha pelo interpretador, enquanto C é compilada e traduzida em linguagem de máquina antes da execução. E Java é compilada para bytecode e executada pela JVM. Também podemos dizer que Python é conhecido pela sua facilidade de uso e produtividade, C é valorizado pelo desempenho e controle, enquanto Java oferece um equilíbrio entre ambos, sendo amplamente adotado para desenvolvimento empresarial.
+Acerca de compilação e interpretação: Python é interpretada e executada linha por linha pelo interpretador, enquanto C é compilada e traduzida em linguagem de máquina antes da execução. E Java é compilada para bytecode e executada pela JVM. Também podemos dizer que Python é conhecido pela sua facilidade de uso e produtividade, C é valorizado pelo desempenho e controle, enquanto Java oferece um equilíbrio entre ambos, sendo amplamente adotado para desenvolvimento empresarial.
